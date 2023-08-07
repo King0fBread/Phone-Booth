@@ -1,0 +1,15 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\gitprojects\\phone-booth\\phonebooth\\source\\phonebooth\\gearsmanager.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\gitprojects\\phone-booth\\phonebooth\\intermediate\\build\\win64\\phonebootheditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\gitprojects\\phone-booth\\phonebooth\\intermediate\\build\\win64\\unrealeditor\\development\\phonebooth\\definitions.phonebooth.h",
+            "c:\\gitprojects\\phone-booth\\phonebooth\\source\\phonebooth\\gearsmanager.h",
+            "c:\\gitprojects\\phone-booth\\phonebooth\\intermediate\\build\\win64\\unrealeditor\\inc\\phonebooth\\gearsmanager.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

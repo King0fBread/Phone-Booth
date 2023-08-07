@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "PhoneBooth",
+			"Path": "C:\\GitProjects\\Phone-Booth\\PhoneBooth\\Source\\PhoneBooth.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "PhoneBoothEditor",
+			"Path": "C:\\GitProjects\\Phone-Booth\\PhoneBooth\\Source\\PhoneBoothEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

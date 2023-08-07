@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-PhoneBooth.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\GitProjects\Phone-Booth\PhoneBooth\Intermediate\Build\Win64\PhoneBoothEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\GitProjects\Phone-Booth\PhoneBooth\Intermediate\Build\Win64\UnrealEditor\Development\PhoneBooth\GearsManager.cpp.obj"
+"C:\GitProjects\Phone-Booth\PhoneBooth\Intermediate\Build\Win64\UnrealEditor\Development\PhoneBooth\PhoneBooth.cpp.obj"
+"C:\GitProjects\Phone-Booth\PhoneBooth\Intermediate\Build\Win64\UnrealEditor\Development\PhoneBooth\GearsManager.gen.cpp.obj"
+"C:\GitProjects\Phone-Booth\PhoneBooth\Intermediate\Build\Win64\UnrealEditor\Development\PhoneBooth\PhoneBooth.init.gen.cpp.obj"
+"C:\GitProjects\Phone-Booth\PhoneBooth\Intermediate\Build\Win64\UnrealEditor\Development\PhoneBooth\Default.rc2.res"
+/OUT:"C:\GitProjects\Phone-Booth\PhoneBooth\Intermediate\Build\Win64\UnrealEditor\Development\PhoneBooth\UnrealEditor-PhoneBooth.lib"

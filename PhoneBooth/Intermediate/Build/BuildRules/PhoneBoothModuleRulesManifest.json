@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\GitProjects\\Phone-Booth\\PhoneBooth\\Source\\PhoneBooth\\PhoneBooth.Build.cs",
+		"C:\\GitProjects\\Phone-Booth\\PhoneBooth\\Source\\PhoneBooth.Target.cs",
+		"C:\\GitProjects\\Phone-Booth\\PhoneBooth\\Source\\PhoneBoothEditor.Target.cs"
+	],
+	"EngineVersion": "5.0.3"
+}
