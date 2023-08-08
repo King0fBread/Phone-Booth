@@ -25,3 +25,8 @@ void AGearsManager::Tick(float DeltaTime)
 
 }
 
+void AGearsManager::CallGearsStateCheckFunction()
+{
+	
+}
+

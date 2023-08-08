@@ -17,9 +17,6 @@ public:
 
 	void CallGearsStateCheckFunction();
 
-	UPROPERTY(EditAnywhere, Category = "GearActors")
-		AActor[] gearsArray;
-
 protected:
 	// Called when the game starts or when spawned
 	virtual void BeginPlay() override;
@@ -28,4 +25,8 @@ public:
 	// Called every frame
 	virtual void Tick(float DeltaTime) override;
 
+private:
+
+	UPROPERTY(EditAnywhere, Category = "GearActors")
+		TArray<AActor*> GearActors;
 };
